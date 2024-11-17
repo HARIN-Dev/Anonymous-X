@@ -34,6 +34,6 @@
 For any issues or support, open an issue on the [GitHub Issues page](https://github.com/UncensoredUsers/Anonymous-X/issues) or contact us via email at [contact.x.anonymous@gmail.com](mailto:contact.x.anonymous@gmail.com).
 
 ## Official Website
-![Website](https://uncensoredusers.github.io/Anonymous-X/)
+[Website](https://uncensoredusers.github.io/Anonymous-X/)
 
 ![Anonymous-X](https://raw.githubusercontent.com/UncensoredUsers/Anonymous-X/main/logo.png)
