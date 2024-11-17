@@ -31,4 +31,4 @@
 
 ## Support
 
-For any issues or support, open an issue on the [GitHub Issues page](#) or contact us via email at [support@example.com](mailto:support@example.com).
+For any issues or support, open an issue on the [GitHub Issues page](#) or contact us via email at [contact.x.anonymous@gmail.com](mailto:contact.x.anonymous@gmail.com).
