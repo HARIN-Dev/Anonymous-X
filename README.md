@@ -16,7 +16,7 @@
 
 ## Installation
 
-1. **Download** the latest version of the script from the [release page](#).(Not now)
+1. **Download** the latest version of the script from the [release page](https://github.com/UncensoredUsers/Anonymous-X/releases/tag/Roblox).
 2. **Load** the script into your Roblox environment (use a script executor like Synapse Z, Wave, Solara, or other executor).
 3. **Execute**  the script in your Roblox game.
 4. Enjoy the powerful features and functionalities of Anonymous-X!
