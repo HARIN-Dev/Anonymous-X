@@ -2,7 +2,7 @@
 
 ### v0.0.1 - Initial Testing (2024.11.23)
 - **Anonymous-X** UI Library Optimization.
-- Testing User Interface and Added Various Function Tests for **Anonymous-X**.
+- Testing User Interface and Added Various Function Tests for **Anonymous-X** Universal Script.
 - **Anonymous-X** Loader Optimization.
 
 ### v0.0.2 - Error Fixed (2024.11.23)
