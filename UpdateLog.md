@@ -20,3 +20,9 @@
 - Fixed Loader Status.
 - Intermediate Steps Before Release
 - Final Some Functions Test Done.
+
+### v0.0.5 - Last Check (2024.11.30)
+- Anonymous-X Fisch script has been obfuscate and uploaded to Github.
+- We will be testing all features for Fisch script in the next update.
+- This update is a Loader update, not a Fisch script update.
+- It's not long until Anonymous-X is released. I'll do my best.
