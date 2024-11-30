@@ -12,6 +12,7 @@ if games[placeId] ~= "" then
     local scriptContent = game:HttpGet(games[placeId])
     loadstring(scriptContent)()
 end
+local endTime = tick()
 
-local elapsedTime = tick() - startTime
+local elapsedTime = endTime - startTime
 print("Loaded. Elapsed Time: " .. string.format("%.2f", elapsedTime) .. " seconds.")
