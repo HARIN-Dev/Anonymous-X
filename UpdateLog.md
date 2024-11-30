@@ -16,7 +16,7 @@
 - Resolved an Issue Causing Server Connection Errors During the Loading Script.
 
 ### v0.0.4 - UI Change, Intermediate Steps (2024.11.28)
-- Anonymous-X's UI Causing Error of the Some Function. We Changed the UI to Mercury-Lib
+- Anonymous-X's UI Causing Error of the Some Function. We Changed the UI to Fluent-Lib
 - Fixed Loader Status.
 - Intermediate Steps Before Release
 - Final Some Functions Test Done.
