@@ -26,3 +26,10 @@
 - We will be testing all features for Fisch script in the next update.
 - This update is a Loader update, not a Fisch script update.
 - It's not long until Anonymous-X is released. I'll do my best.
+
+### v0.0.6 - Release (2024.12.01)
+- Anonymous-X is now release for Fisch script.
+- Murder Mystery 2 script has been added to the loader and optimization.
+- License added.
+- Premium scripts will be deleted and Fisch Premium tab will be deleted.
+- Error codes will be added to each.
