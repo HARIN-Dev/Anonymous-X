@@ -32,4 +32,4 @@
 - Murder Mystery 2 script has been added to the loader and optimization.
 - License added.
 - Premium scripts will be deleted and Fisch Premium tab will be deleted.
-- Error codes will be added to each.
+- Error messages will be added to each.
