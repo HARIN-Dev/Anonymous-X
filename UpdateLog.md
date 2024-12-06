@@ -33,3 +33,9 @@
 - License added.
 - Premium scripts will be deleted and Fisch Premium tab will be deleted.
 - Error messages will be added to each.
+
+### v0.0.7 - New Game (2024.12.06)
+- Anonymous-X is now release for Korean Murder script.
+- Korean Murder script now added in the loader
+- Optimized Korean Murder script
+- Adding more features
