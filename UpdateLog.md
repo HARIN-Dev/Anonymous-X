@@ -39,3 +39,6 @@
 - Korean Murder script now added in the loader
 - Optimized Korean Murder script
 - Adding more features
+
+### v0.0.8 - Error Fixes (2024.12.06)
+- Korean Murder Script Tab error and various functions have been added.
