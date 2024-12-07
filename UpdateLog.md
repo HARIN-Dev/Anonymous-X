@@ -1,4 +1,4 @@
-## **Update Log (Changelog)**
+## **Loader Update Log (Changelog)**
 
 ### v0.0.1 - Initial Testing (2024.11.23)
 - **Anonymous-X** UI Library Optimization.
