@@ -15,16 +15,19 @@ local success, errorMessage = pcall(function()
         local scriptContent, scriptError = game:HttpGet(games[placeId], true)
         
         if not scriptContent then
-            error("HTTP GET failed: " .. scriptError)
+            warn("HTTP GET failed: " .. scriptError)
         end
 
         local loadSuccess, loadError = pcall(loadstring(scriptContent))
         if not loadSuccess then
-            error("Loadstring failed: " .. loadError)
+            warn("Loadstring failed: " .. loadError)
         end
         loadstring(scriptContent)()
     else
-        error("Game not found in the list.")
+        warn("Game not found in the list.")
+        --[[
+            um 
+        ]]
     end
 end)
 
