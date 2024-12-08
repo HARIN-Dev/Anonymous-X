@@ -6,5 +6,5 @@
 
 ### v0.1.0 - Added Functions (2024.12.08)
 - Offically added Kill All, Shoot Murd.
-- Added Coin Auto Farm.
+- Added Coin Auto Farm and Speed.
 - Change Some Description
