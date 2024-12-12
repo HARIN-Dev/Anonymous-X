@@ -159,7 +159,7 @@ function Library:CreateWindow(name)
 	Scrolling_2.BorderSizePixel = 0
 	Scrolling_2.Position = UDim2.new(0, 0, 0, 0)
 	Scrolling_2.Size = UDim2.new(1, 0, 1, 0)
-	Scrolling_2.ScrollBarThickness = 3
+	Scrolling_2.ScrollBarThickness = 0
 
 	UIListLayout.Parent = Scrolling
 	UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
