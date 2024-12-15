@@ -1,11 +1,9 @@
---[[
-Um It's Just Loader
-]]
 local placeId = game.PlaceId
 
 local games = {
     [16732694052] = "https://raw.githubusercontent.com/UncensoredUsers/Anonymous-X/main/Fisch/Fisch.lua", -- Fisch
     [5720801512] = "https://raw.githubusercontent.com/UncensoredUsers/Anonymous-X/main/KoreanMurder/KMM.lua", -- Korean Murder
+    [] = ""
 }
 
 local startTime = tick()
@@ -37,4 +35,5 @@ if not success then
     warn("Error occurred: " .. errorMessage)
 else
     print("Loaded. Elapsed Time: " .. string.format("%.2f", elapsedTime) .. " seconds.")
+    warn("Executors that do not support the functions required to run scripts may not be usable.")
 end
