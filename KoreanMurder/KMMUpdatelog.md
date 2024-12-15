@@ -8,3 +8,7 @@
 - Offically added Kill All, Shoot Murd.
 - Added Coin Auto Farm and Speed.
 - Change Some Description
+
+### v0.1.0 - Added Functions (2024.12.15)
+- Fixed Speed Slider
+- Fixed Some Text
