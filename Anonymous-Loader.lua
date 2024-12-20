@@ -3,7 +3,7 @@ local placeId = game.PlaceId
 local games = {
     [16732694052] = "https://raw.githubusercontent.com/UncensoredUsers/Anonymous-X/main/Fisch/Fisch.lua", -- Fisch
     [5720801512] = "https://raw.githubusercontent.com/UncensoredUsers/Anonymous-X/main/KoreanMurder/KMM.lua", -- Korean Murder
-    [] = ""
+    [17625359962] = "https://raw.githubusercontent.com/HARIN-Dev/Anonymous-X/main/Rivals/Rivals.lua" -- Rivals
 }
 
 local startTime = tick()
